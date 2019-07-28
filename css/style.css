@@ -51,9 +51,7 @@ p  {
 }
 
 img {
-border-width: 5px;
-border-color: rgb(111,127,122);
-border-style: solid;
+border: 5px rgb(152,173,166) solid;
 }
 
 #second img {
