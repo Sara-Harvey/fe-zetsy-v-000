@@ -55,8 +55,8 @@ img {
 }
 
 #press img {
-  display: inline-block;
-  width: 24%;
+  border: 5px #ccc solid;
+  padding: 1px;
 }
 
 footer {
